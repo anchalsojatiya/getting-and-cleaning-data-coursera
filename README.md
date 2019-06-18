@@ -3,6 +3,8 @@
 1) A tidy data set 
 2) A link to a Github repository with your script for performing the analysis
 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md and README.md in the repo with scripts. This repo explains how all of the scripts work and how they are connected.
+Data was obtained from following link
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 ## Working of Script
 1) Installing necessary packages
 2) Getting woorking directory
